@@ -1,8 +1,0 @@
-D:\U3.EXAM\api\apifamilia\apifamilia\src\main\java\com\familia\apifamilia\ApifamiliaApplication.java
-D:\U3.EXAM\api\apifamilia\apifamilia\src\main\java\com\familia\apifamilia\controller\MiembroController.java
-D:\U3.EXAM\api\apifamilia\apifamilia\src\main\java\com\familia\apifamilia\dto\MiembroDTO.java
-D:\U3.EXAM\api\apifamilia\apifamilia\src\main\java\com\familia\apifamilia\exception\GlobalExceptionHandler.java
-D:\U3.EXAM\api\apifamilia\apifamilia\src\main\java\com\familia\apifamilia\exception\MiembroNotFoundException.java
-D:\U3.EXAM\api\apifamilia\apifamilia\src\main\java\com\familia\apifamilia\model\Miembro.java
-D:\U3.EXAM\api\apifamilia\apifamilia\src\main\java\com\familia\apifamilia\repository\MiembroRepository.java
-D:\U3.EXAM\api\apifamilia\apifamilia\src\main\java\com\familia\apifamilia\service\MiembroService.java
